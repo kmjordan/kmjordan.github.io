@@ -1,0 +1,23 @@
+* {
+  background-color: lightblue;
+}
+  .MainPageAccent {
+    color: black;
+    font-size: 50px;
+    font-family: serif;
+    text-align: center;
+
+
+  }
+  li {
+    background-color: transparent;
+  }
+  img {
+    border-width: 20px;
+    border-color: black;
+    border-style: inset;
+    margin-right: auto;
+    margin-left: 250px;
+    width: 0px
+    display: block;
+  }
